@@ -1,0 +1,6 @@
+@BackendListaTarefas_HostAddress = http://localhost:5039
+
+GET {{BackendListaTarefas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

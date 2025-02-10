@@ -1,0 +1,178 @@
+# 🔥 Arquivos Sensíveis
+.env
+*.key
+*.pem
+**/*.keystore
+**/*.jks
+
+# 📝 Logs e Arquivos Temporários
+*.log
+*.lock
+*.tmp
+*.cache
+*.swp
+*.swo
+*.bak
+
+# 🚀 Flutter/Dart/Pub
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.pub-cache/
+.pub/
+/build/
+.melos/
+
+# 🏗️ Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/.gradle
+/android/key.properties
+**/android/app/src/debug/
+**/android/app/src/profile/
+**/android/app/src/release/
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# 🍏 iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/.generated/
+ios/.dart_tool/
+**/dgph
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+**/*sync/
+.sconsign.dblite
+.tags*
+**/.vagrant/
+**/DerivedData/
+Icon?
+profile
+xcuserdata
+**/.generated/
+Flutter/App.framework
+Flutter/Flutter.framework
+Flutter/Flutter.podspec
+Flutter/Generated.xcconfig
+Flutter/ephemeral/
+Flutter/app.flx
+Flutter/app.zip
+Flutter/flutter_assets/
+Flutter/flutter_export_environment.sh
+ServiceDefinitions.json
+Runner/GeneratedPluginRegistrant.*
+
+# 🖥️ Windows
+windows/flutter/ephemeral/
+windows/.dart_tool/
+
+# 🐧 Linux
+linux/flutter/ephemeral/
+linux/.dart_tool/
+
+# 📱 Web
+web/.dart_tool/
+web/build/
+
+# 🔍 Xcode
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcodeproj/
+*.xcworkspace/
+!default.xcworkspace
+
+# 🖥️ VS Code
+.vscode/
+*.code-workspace
+
+# 🏗️ Docker
+docker-compose.override.yml
+**/docker-data/
+**/docker-cache/
+**/.dockerignore
+
+# 🏢 C# e .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.vcxproj*
+*.csproj.user
+*.suo
+*.cache
+*.nupkg
+*.nuspec
+*.userprefs
+.vs/
+
+# 🗄️ PostgreSQL e MongoDB
+*.sql
+*.sqlite
+*.db
+/mongo-data/
+pgdata/
+postgres-data/
+mongodb-data/
+
+# 📄 Outros Arquivos de Configuração
+.DS_Store
+*.iml
+*.ipr
+*.iws
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 🔧 Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 💻 Visual Studio Build e Cache
+x64/
+x86/
+*.[Cc]ache
+!*.[Cc]ache/
+
+# 🗑️ Arquivos Miscellaneous
+*.class
+*.pyc
+*.swp
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# 🖥️ Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# ⚙️ Arquivos de Ambiente
+.env
+.env.*
