@@ -1,7 +1,3 @@
-Aqui está seu README com emojis representando cada item da melhor forma possível:  
-
----
-
 # ✅ Let's Do This  
 
 Let's Do This é um 📝 sistema de gerenciamento de tarefas compartilhadas, ideal para 👥 amigos, 🏢 equipes e pequenos grupos que precisam organizar e acompanhar suas atividades de forma colaborativa. O projeto está em 🚧 desenvolvimento e novas funcionalidades serão adicionadas ao longo do tempo.  
@@ -35,7 +31,7 @@ Let's Do This é um 📝 sistema de gerenciamento de tarefas compartilhadas, ide
 
 # 📅 Plano de Desenvolvimento - Let's Do This  
 
-### **🏗️ Fase 1 - Infraestrutura e Banco de Dados (4 dias)**  
+### **🏗️ Fase 1 - Infraestrutura e Banco de Dados **  
 
 1. **🐳 Configurar PostgreSQL no Docker Compose**  
    - ✅ Ok. Adicionar container do PostgreSQL.  
@@ -55,7 +51,7 @@ Let's Do This é um 📝 sistema de gerenciamento de tarefas compartilhadas, ide
 
 ---
 
-### **🔐 Fase 2 - Autenticação e Usuários (5 dias)**  
+### **🔐 Fase 2 - Autenticação e Usuários **  
 
 4. **📦 Criar entidades e modelos (Users, Tasks, SharedTasks)**  
    - 📜 Criar classes de entidades (`User`, `Task`, `SharedTask`).  
@@ -74,7 +70,7 @@ Let's Do This é um 📝 sistema de gerenciamento de tarefas compartilhadas, ide
 
 ---
 
-### **📝 Fase 3 - CRUD de Tarefas (5 dias)**  
+### **📝 Fase 3 - CRUD de Tarefas **  
 
 1. **⚙️ Criar serviços e controllers para tarefas**  
    - 🔄 Criar CRUD completo de tarefas (criar, visualizar, editar, deletar).  
@@ -90,7 +86,7 @@ Let's Do This é um 📝 sistema de gerenciamento de tarefas compartilhadas, ide
 
 ---
 
-### **📱 Fase 4 - Ajustes no Frontend (6 dias)**  
+### **📱 Fase 4 - Ajustes no Frontend **  
 
 4. **🔗 Integrar autenticação no frontend (Flutter Web)**  
    - 🆕 Criar tela de **cadastro e login**.  
@@ -109,7 +105,7 @@ Let's Do This é um 📝 sistema de gerenciamento de tarefas compartilhadas, ide
 
 ---
 
-### **⚡ Fase 5 - Melhorias e Deploy (5 dias)**  
+### **⚡ Fase 5 - Melhorias e Deploy **  
 
 7. **💾 Implementar cache com MongoDB**  
    - 📂 Salvar **últimas tarefas acessadas** no MongoDB.  
